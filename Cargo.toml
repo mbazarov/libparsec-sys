@@ -1,0 +1,8 @@
+[package]
+name = "libparsec-sys"
+version = "0.1.0"
+authors = ["bazarov <mikhail.bazaroff@gmail.com>"]
+edition = "2018"
+
+
+[dependencies]
